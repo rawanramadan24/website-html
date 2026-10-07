@@ -1,0 +1,26 @@
+body{
+    background-color: beige;
+}
+p strong{
+    font-size: large;
+    color: blue;
+}
+p u {
+    font-size: medium;
+    color: aqua;
+}
+p i{
+    font-size: small;
+    color: black;
+}
+table{
+    font-size: 30px ;
+    color: black;
+}
+th { color: blueviolet;}
+td{ color: black;}
+header{
+    text-align: center;
+     font-size: larger;}
+    label{color: brown;}
+    
